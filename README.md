@@ -4,7 +4,7 @@
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-Industrial Automation Engineer with a strong interest in software development and process automation. Experienced in PLC programming, HMI design, and industrial instrumentation. Skilled in Java, Python, HTML, CSS, and JavaScript. Known for <br> leadership, adaptability, and strong problem-solving skills.
+Industrial Automation Engineer with a strong interest in software development and process automation. Experienced in PLC programming, HMI design, and industrial instrumentation. Skilled in Java, Python, HTML, CSS, and JavaScript. Known for leadership, adaptability, and strong problem-solving skills.
 
 <br>
 <br>
@@ -12,19 +12,19 @@ Industrial Automation Engineer with a strong interest in software development an
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <br>
 
 ## 🤝🏻 &nbsp;Connect with Me
+
 <a href="https://www.linkedin.com/in/feliperealp/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -34,4 +34,3 @@ Industrial Automation Engineer with a strong interest in software development an
 <a href="https://www.instagram.com/feliperealp/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<img src="">
