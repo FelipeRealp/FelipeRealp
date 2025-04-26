@@ -17,4 +17,4 @@ Industrial Automation Engineer with a strong interest in software development an
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-<a target="_blank" href="https://www.linkedin.com/in/feliperealp/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="mailto:feliprealp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a target="_blank" href="https://www.linkedin.com/in/feliperealp/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="mailto:contacto@feliperealp.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
